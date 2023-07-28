@@ -1,4 +1,3 @@
-# BD2_198_214_284_291
 Repo created programmatically. Project Title: Yet another MapReduce (YaMR)
 
 networking setup:
